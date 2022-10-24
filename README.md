@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@dead_codes's Holopin board](https://holopin.io/api/user/board?user=dead_codes)](https://holopin.io/@dead_codes)
-
-https://www.cloudskillsboost.google/public_profiles/47d733c4-d500-4940-a682-cd2642407b70/badges/2757797
